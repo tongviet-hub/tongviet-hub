@@ -2,7 +2,7 @@
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/47bdcfb1-9769-40b7-9577-156fb7e87e98/ddv92p4-0827de20-0a6a-4bb4-af4f-637565b0da28.png/v1/fill/w_1073,h_744,q_70,strp/study_girl_takes_a_break__by_chasingartwork_ddv92p4-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODg4IiwicGF0aCI6IlwvZlwvNDdiZGNmYjEtOTc2OS00MGI3LTk1NzctMTU2ZmI3ZTg3ZTk4XC9kZHY5MnA0LTA4MjdkZTIwLTBhNmEtNGJiNC1hZjRmLTYzNzU2NWIwZGEyOC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.FxmDYByMmy2f9MQl584pUw7wGG_Cz4ph_4C-X3Ju_qA">
     <h1>👋 Hi, my name is Tong Viet</h1>
 </div>
-# ❤️❤️❤️ About Me:
+❤️❤️❤️ About Me:
 🌟 Hello everyone! My name is Tong Viet, and I'm currently studying Computer Programming at the Posts and Telecommunications Institute of Technology (PTIT). Recently, I embarked on a journey to explore Data Science and Economics, and I see my goals as the brightest light guiding me forward. I’m passionate about what I do, and I hope you are too. They say no one can step into the same river twice—but hey, let’s give it our best shot<br>🎵I love listening to US/UK music. <br>🎮I’m a big fan of playing Valorant and AAA games. <br>💭Sometimes, I get a little lost in my thoughts—but don’t worry, I’m still on track!
 
 
