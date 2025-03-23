@@ -1,5 +1,5 @@
 ## Hi, my name is Tong Viet 👋
-🌟 "Hello everyone! My name is Tong Viet, and I'm currently studying Computer Programming at the Posts and Telecommunications Institute of Technology (PTIT). Recently, I embarked on a journey to explore Data Science and Economics, and I see my goals as the brightest light guiding me forward. I’m passionate about what I do, and I hope you are too. They say no one can step into the same river twice—but hey, let’s give it our best shot
+🌟 Hello everyone! My name is Tong Viet, and I'm currently studying Computer Programming at the Posts and Telecommunications Institute of Technology (PTIT). Recently, I embarked on a journey to explore Data Science and Economics, and I see my goals as the brightest light guiding me forward. I’m passionate about what I do, and I hope you are too. They say no one can step into the same river twice—but hey, let’s give it our best shot
 <!--
 **tongviet-hub/tongviet-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
