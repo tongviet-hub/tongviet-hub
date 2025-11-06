@@ -61,8 +61,5 @@ They say no one can step into the same river twice—but hey, let’s give it ou
 </div>
 
 <br>
-<br>
----
-[![](https://visitcount.itsvg.in/api?id=tongviet-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
