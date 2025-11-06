@@ -18,11 +18,49 @@ They say no one can step into the same river twice—but hey, let’s give it ou
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<br>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tongviet-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tongviet-hub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tongviet-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center" width="100%">
+  <table>
+    <tr>
+      <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=tongviet-hub&custom_title=Nagih's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=tongviet-hub&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Nagih's GitHub stats">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tongviet-hub&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KenanGain&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      </td>
+    </tr>
+  </table>
+<!-- <table>
+  <tr>
+    <td>
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vuongmanhnghia&theme=highcontrast&hide_border=true">
+    </td>
+  </tr>
+</table> -->
+</div>
+
+<br>
+
+<div align="center">
+  <h2>My Contributions </h2>
+  <br>
+  <a href="https://github.com/tongviet-hub">
+    <img src="https://ghchart.rshah.org/tongviet-hub" alt="tongviet's GitHub Contribution Chart">
+  </a>
+</div>
+
+<br>
+<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=tongviet-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
