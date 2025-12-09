@@ -37,7 +37,7 @@ They say no one can step into the same river twice—but hey, let’s give it ou
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=tongviet-hub&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Nagih's GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=tongviet-hub&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Tong Viet's GitHub stats">
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tongviet-hub&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
