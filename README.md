@@ -83,23 +83,12 @@ They say no one can step into the same river twice—but hey, let's give it our 
 
 <div align="center">
 
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=tongviet-hub&custom_title=GitHub%20T%E1%BB%91ng%20Vi%E1%BB%87t&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-
-<br>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=tongviet-hub&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Tong Viet's GitHub stats">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tongviet-hub&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tongviet-hub&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-    </td>
-  </tr>
-</table>
+<!-- Các ảnh dưới đây được GitHub Actions tự tạo (xem .github/workflows/profile-summary-cards.yml) -->
+<img src="./profile-summary-card-output/monokai/0-profile-details.svg" alt="Profile details" width="49%">
+<img src="./profile-summary-card-output/monokai/3-stats.svg" alt="GitHub stats" width="49%">
+<img src="./profile-summary-card-output/monokai/1-repos-per-language.svg" alt="Repos per language" width="49%">
+<img src="./profile-summary-card-output/monokai/2-most-commit-language.svg" alt="Most commit language" width="49%">
+<img src="./profile-summary-card-output/monokai/4-productive-time.svg" alt="Productive time" width="49%">
 
 </div>
 
