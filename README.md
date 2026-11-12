@@ -5,13 +5,15 @@
 
 ## ❤️ About Me
 
-<p>🌟 Hello everyone! My name is Tong Viet, and I'm currently studying Computer Programming at the Posts and Telecommunications Institute of Technology (PTIT). Recently, I embarked on a journey to explore Data Science and Economics, and I see my goals as the brightest light guiding me forward. I'm passionate about what I do, and I hope you are too.</p>
+Hi there! I'm **Tong Viet**, a Computer Programming student at the **Posts and Telecommunications Institute of Technology (PTIT)** who loves building things end to end, from a polished interface down to the data that powers it.
 
-They say no one can step into the same river twice—but hey, let's give it our best shot!
+- 🧩 **Fullstack Developer**: I build web apps from front to back with React, TypeScript, Go and Python, and I care about clean APIs, fast UIs and systems that scale.
+- 🤖 **Data & AI Enthusiast**: I enjoy turning raw data into insight, building data pipelines and exploring machine learning to make products smarter.
+- 🌍 **Language Lover**: I'm always learning new languages, because every one of them opens a door to new people, ideas and cultures.
 
-🎵 I love listening to US/UK music.  
-🎮 I'm a big fan of playing Valorant and AAA games.  
-💭 Sometimes, I get a little lost in my thoughts—but don't worry, I'm still on track!
+> *"No one ever steps in the same river twice." But hey, let's give it our best shot!* 🚀
+
+🎵 Into US/UK music &nbsp;•&nbsp; 🎮 Valorant & AAA games &nbsp;•&nbsp; 💭 Occasionally lost in thought, but always on track
 
 ## 🌐 Socials
 
