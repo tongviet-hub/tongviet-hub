@@ -7,7 +7,7 @@
 
 Hi there! I'm **Tong Viet**, a Computer Programming student at the **Posts and Telecommunications Institute of Technology (PTIT)** who loves building things end to end, from a polished interface down to the data that powers it.
 
-- 🧩 **Fullstack Developer**: I build web apps from front to back with React, TypeScript, Go and Python, and I care about clean APIs, fast UIs and systems that scale.
+- 🧩 **Fullstack Developer**: I build web and mobile apps from front to back with React, Flutter, TypeScript, Go and Python, and I care about clean APIs, fast UIs and systems that scale.
 - 🤖 **Data & AI Enthusiast**: I enjoy turning raw data into insight, building data pipelines and exploring machine learning to make products smarter.
 - 🌍 **Language Lover**: I'm always learning new languages, because every one of them opens a door to new people, ideas and cultures.
 
@@ -35,10 +35,12 @@ Hi there! I'm **Tong Viet**, a Computer Programming student at the **Posts and T
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-### 🖥️ Frontend
+### 🖥️ Frontend & Mobile
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
